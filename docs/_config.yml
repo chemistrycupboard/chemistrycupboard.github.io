@@ -1,1 +1,18 @@
+repository: chemistrycupboard/chemistrycupboard.github.io
 theme: jekyll-theme-tactile
+title: ChemistryCupboard
+description: >-
+  Samples, Pigments & Elements! Craft & science supplies
+show_downloads: false
+project_logo: assets/image/ChemistryCupboard_Logo_Text_2022.svg
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor/bundle
+plugins:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji
+custom_owner: Nicholas Bissell

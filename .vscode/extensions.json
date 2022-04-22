@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "davidanson.vscode-markdownlint",
+    "yzhang.markdown-all-in-one",
+    "shd101wyy.markdown-preview-enhanced",
+    "bierner.markdown-preview-github-styles",
+    "eg2.vscode-npm-script",
+    "ms-vscode.powershell",
+    "eamodio.gitlens",
+    "rebornix.Ruby"
+  ]
+}
