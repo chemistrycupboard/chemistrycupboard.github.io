@@ -9,6 +9,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor/bundle
+include:
+  - .well-known
 plugins:
 - jekyll-github-metadata
 - jekyll-mentions
