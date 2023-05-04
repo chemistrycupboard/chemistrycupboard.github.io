@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/thefreeman193
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chemistrycupboard.com
+  * I am thefreeman193 (https://keybase.io/thefreeman193) on keybase.
+  * I have a public key ASBtfiSLc9xZszCJzT9bd5cHlk0kr4vsszM1T0ECzYYPdAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018fdb086434eab6054671dc517015f8725d708ccee06b19327714629a832fd0c20a",
+      "host": "keybase.io",
+      "kid": "01206d7e248b73dc59b33089cd3f5b779707964d24af8becb333354f4102cd860f740a",
+      "uid": "9d5ce43dec8f5d76a28d5aca48d27019",
+      "username": "thefreeman193"
+    },
+    "merkle_root": {
+      "ctime": 1683221525,
+      "hash": "aca0fa44ba0cb75aaa931ae31bf985f05778d1dba6842fbfc7c13a9b5cb90ef1cefea01463c063914fa83b2c73a585c2e2cfea8a53b8503f4b2c0cf69ea1f6ab",
+      "hash_meta": "ca98ef7834958c41dc62d9ffb65437025b135dac0faa5b76ea8d0cc7a2463a41",
+      "seqno": 24413320
+    },
+    "service": {
+      "entropy": "s9YJzOfPKxgKIo/MfNt5x3l+",
+      "hostname": "chemistrycupboard.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.1.0"
+  },
+  "ctime": 1683221565,
+  "expire_in": 504576000,
+  "prev": "508600f5f5a398b67cb3c14de54245240dabeec795dc5c375af7e38b4351984e",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgbX4ki3PcWbMwic0/W3eXB5ZNJK+L7LMzNU9BAs2GD3QKp3BheWxvYWTESpcCEcQgUIYA9fWjmLZ8s8FN5UJFJA2r7seV3Fw3Wvfji0NRmE7EILLW6wxavYkyxft/zu4IkhW52Z/KAUxBanO63xdRRpsVAgHCo3NpZ8RA1PTTj7gU0t16MscSK/9fPBGI1LZ6P7z1B4up4ITLUY7BmOQSevQrEMlHMh5AI/f7BDOD+OHt7uwQbtOKVA6GB6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIArpIloXJWnDP/6AuNHib4+aoWx8tNOe55rZ66P2trrzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/thefreeman193
+
+==================================================================
