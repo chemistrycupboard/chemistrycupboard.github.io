@@ -4,7 +4,7 @@
 
 <div style="background-color: white; width: 40rem;">
 
-![ChemistryCupboard Logo](./docs/assets/images/ChemistryCupboard_Logo_Text_2022.svg)
+![ChemistryCupboard Logo](./docs/assets/images/ChemistryCupboard_Logo_Text_2022.png)
 
 </div>
 

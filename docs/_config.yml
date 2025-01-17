@@ -4,7 +4,7 @@ title: ChemistryCupboard
 description: >-
   Samples, Pigments & Elements! Craft & science supplies
 show_downloads: false
-project_logo: assets/image/ChemistryCupboard_Logo_Text_2022.svg
+project_logo: assets/image/ChemistryCupboard_Logo_Text_2022.png
 exclude:
   - Gemfile
   - Gemfile.lock
